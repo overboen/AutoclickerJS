@@ -3,7 +3,6 @@ javascript: (function() {
 		 name        : 'Hold Click'
 		,tag_id      : '__bk_HoldClick'  /* The special class added to new tags (for easier cleanup of the DOM on close) */
 		,description : 'Bookmarklet to continuously auto-click on an element when the left mouse button is held down.'
-		,author      : 'Nelson Overboe'
 	};
 	
 	var resources = [
